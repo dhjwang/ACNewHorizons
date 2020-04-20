@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ACVillagers/static/css/main.51548b3d.chunk.css",
+    "main.js": "/ACVillagers/static/js/main.0449366c.chunk.js",
+    "main.js.map": "/ACVillagers/static/js/main.0449366c.chunk.js.map",
+    "runtime-main.js": "/ACVillagers/static/js/runtime-main.b66ad921.js",
+    "runtime-main.js.map": "/ACVillagers/static/js/runtime-main.b66ad921.js.map",
+    "static/js/2.87396a24.chunk.js": "/ACVillagers/static/js/2.87396a24.chunk.js",
+    "static/js/2.87396a24.chunk.js.map": "/ACVillagers/static/js/2.87396a24.chunk.js.map",
+    "index.html": "/ACVillagers/index.html",
+    "precache-manifest.c32df628ad3d89233435c3be844f073c.js": "/ACVillagers/precache-manifest.c32df628ad3d89233435c3be844f073c.js",
+    "service-worker.js": "/ACVillagers/service-worker.js",
+    "static/css/main.51548b3d.chunk.css.map": "/ACVillagers/static/css/main.51548b3d.chunk.css.map",
+    "static/js/2.87396a24.chunk.js.LICENSE.txt": "/ACVillagers/static/js/2.87396a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b66ad921.js",
+    "static/js/2.87396a24.chunk.js",
+    "static/css/main.51548b3d.chunk.css",
+    "static/js/main.0449366c.chunk.js"
+  ]
+}
